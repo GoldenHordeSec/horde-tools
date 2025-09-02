@@ -42,7 +42,7 @@ TOP_PORTS = [
 
 TITLE_RE = re.compile(r"<title[^>]*>(.*?)</title>", re.IGNORECASE | re.DOTALL)
 
-# Remember: The Horde is life, horde is everything, horde paves the future. 1. Cyb3R_
+# Remember The Horde is life, horde is everything, horde paves the future. 1. Cyb3R_
 
 
 def parse_targets(arg: str) -> List[str]:
